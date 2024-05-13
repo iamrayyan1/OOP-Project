@@ -59,6 +59,29 @@ The objective of the game is to achieve the highest score possible by maneuverin
 4. **Abstraction:** Abstraction is utilized to hide implementation details and provide a simplified interface for interacting with game objects and mechanics.
 5. **Modularity:** The project demonstrates modularity by organizing code into separate classes for different gameplay components and difficulty modes.
 
+
+### Members' Contribution:
+
+1. Rayyan Merchant (23K-0073):
+   - Implemented the gameplay logic for the medium difficulty mode.
+   - Worked on collision detection and scoring mechanisms.
+   - Worked on console manipulation and cursor positioning.
+   - Assisted in testing and debugging.
+
+2. Riya Bhart (23K-0063):
+   - Implemented the gameplay logic for the easy difficulty mode.
+   - Designed the user interface including the instruction screen.
+   - Handled the integration of input handling functions.
+   - Assisted in testing and documentation.
+
+3. Syeda Rija Ali (23K-0057):
+   - Implemented the gameplay logic for the hard difficulty mode.
+   - Designed and implemented the main menu functionality.
+   - Handled the integration of enemy and player car designs.
+   - Assisted in testing and refining the game mechanics.
+
+
+
 ## Conclusion
 The Car Game project demonstrates the application of C++ programming concepts in game development, utilizing libraries like `windows.h` and `time.h` for console manipulation and timing functions. By implementing various gameplay mechanics and difficulty modes, the project provides an engaging and challenging gaming experience for players. With its modular design and clear separation of concerns, the project showcases good programming practices and lays the foundation for further enhancements and feature additions.
 
