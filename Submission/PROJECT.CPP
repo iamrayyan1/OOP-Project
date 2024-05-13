@@ -813,8 +813,13 @@ void instructions() {
     gotoxy(50, 7);
     cout << " ------------------- ";
     gotoxy(50, 9);
-    cout << "Avoid the cars by moving left (A) and right (D)" << endl;
-    cout << "Press ENTER to continue";
+    cout << "Welcome to the Car Game!" << endl << endl;
+    cout << "Instructions:" << endl;
+    cout << "- Use 'A' to move your car left and 'D' to move it right." << endl;
+    cout << "- Avoid crashing into other cars on the road." << endl;
+    cout << "- The game speeds up as you progress." << endl << endl;
+    cout << "Press E to go back to Main Menu.";
+    cin.ignore();
     getchar(); 
 }
 
