@@ -318,11 +318,11 @@ class mediumClass : public enemyClass, public gamePlay {
             gotoxy(enemyX[ind], enemyY[ind]);
             cout << "|  |";
             gotoxy(enemyX[ind], enemyY[ind]);
-            cout << "UUUU";
+            cout << "XXXX";
             gotoxy(enemyX[ind], enemyY[ind] + 1);
-            cout << " UU ";
+            cout << " XX ";
             gotoxy(enemyX[ind], enemyY[ind] + 2);
-            cout << "UUUU";
+            cout << "XXXX";
             gotoxy(enemyX[ind], enemyY[ind] + 3);
             cout << " vv ";
     }
@@ -538,11 +538,11 @@ class hardClass : public enemyClass, public gamePlay {
             gotoxy(enemyX[ind], enemyY[ind]);
             cout << "|  |";
             gotoxy(enemyX[ind], enemyY[ind]);
-            cout << "UUUU";
+            cout << "OOOO";
             gotoxy(enemyX[ind], enemyY[ind] + 1);
-            cout << " UU ";
+            cout << " OO ";
             gotoxy(enemyX[ind], enemyY[ind] + 2);
-            cout << "UUUU";
+            cout << "OOOO";
             gotoxy(enemyX[ind], enemyY[ind] + 3);
             cout << " vv ";
     }
@@ -788,6 +788,7 @@ void modes() {
         hc.play();
         break;
       case '4':
+        //main();
         exit(0);
         break;
       default:
