@@ -97,6 +97,10 @@ The Car Game project demonstrates modularity by organizing code into separate cl
 The Car Game project demonstrates the application of C++ programming concepts in game development, utilizing libraries like `windows.h` and `time.h` for console manipulation and timing functions. By implementing various gameplay mechanics and difficulty modes, the project provides an engaging and challenging gaming experience for players. With its modular design and clear separation of concerns, the project showcases good programming practices and lays the foundation for further enhancements and feature additions.
 
 
+## Documentation:
 
-## Video Demo: 
-https://drive.google.com/file/d/1bzLyIb_ExK8noNYGTswOGH10pGxUsvm3/view?t=107
+### Video Demo: 
+https://drive.google.com/file/d/1RwZzFYulDJEDOfN2IDco6UAFSRuBk6-R/view
+### Project PPT:
+https://docs.google.com/presentation/d/1zx739l9JjjoUelmVz5qs1g12w_oZCDe-f4-WI10tpTI/edit?pli=1#slide=id.p1
+### 
