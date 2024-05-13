@@ -103,4 +103,5 @@ The Car Game project demonstrates the application of C++ programming concepts in
 https://drive.google.com/file/d/1RwZzFYulDJEDOfN2IDco6UAFSRuBk6-R/view
 ### Project PPT:
 https://docs.google.com/presentation/d/1zx739l9JjjoUelmVz5qs1g12w_oZCDe-f4-WI10tpTI/edit?pli=1#slide=id.p1
-### 
+### Code Explanation:
+https://drive.google.com/drive/u/0/folders/1QF3JVQVsp1sHfICODLzJ88DqIkWdeeQT
