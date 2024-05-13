@@ -71,7 +71,7 @@ The Car Game project demonstrates modularity by organizing code into separate cl
 
 
 
-### Members' Contribution:
+## Members' Contribution:
 
 1. **Rayyan Merchant (23K-0073):**
    - Implemented the gameplay logic for the medium difficulty mode.
