@@ -65,7 +65,7 @@ The objective of the game is to achieve the highest score possible by maneuverin
 1. Rayyan Merchant (23K-0073):
    - Implemented the gameplay logic for the medium difficulty mode.
    - Worked on collision detection and scoring mechanisms.
-   - Worked on console manipulation and cursor positioning.
+   - Handled the console manipulation and cursor positioning.
    - Assisted in testing and debugging.
 
 2. Riya Bhart (23K-0063):
