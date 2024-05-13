@@ -1,14 +1,12 @@
-# OOP Project
+# OOP PROJECT FINAL REPORT
 ## SURVIVING CAR GAME
 ### Creators:
       Rayyan Merchant(23K-0073)
       Riya Bhart(23K-0063)
       Syeda Rija Ali(23K-0057)
 
-
-
-
-# Project Report: Car Game
+### Instructor: Talha Shahid
+### Section: BSAI-2A
 
 ## Introduction
 The Car Game project is a console-based game developed in C++ that simulates a car driving experience. Players control a car moving along a road while avoiding collisions with other cars. The game offers three difficulty modes: Easy, Medium, and Hard, each with different speeds and challenges.
